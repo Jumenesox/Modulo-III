@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.exe
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.deps.json
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.runtimeconfig.json
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.dll
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\bin\Debug\netcoreapp3.1\ProjetoFinalCOO.pdb
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.dll
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.pdb
+C:\Users\guilh\source\repos\ProjetoFinalCOO\ProjetoFinalCOO\obj\Debug\netcoreapp3.1\ProjetoFinalCOO.genruntimeconfig.cache

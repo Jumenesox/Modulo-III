@@ -1,0 +1,14 @@
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.exe
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.deps.json
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.runtimeconfig.json
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.runtimeconfig.dev.json
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.dll
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\bin\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.pdb
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.AssemblyInfo.cs
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.dll
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.pdb
+C:\Users\guilh\Desktop\Projetos Trilha\TrilhaEspecialista.Modulo.LP\TrilhaEspecialista.Modulo.LP\obj\Debug\netcoreapp3.1\TrilhaEspecialista.Modulo.LP.genruntimeconfig.cache

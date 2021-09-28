@@ -1,0 +1,14 @@
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.exe
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.deps.json
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.runtimeconfig.json
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.dll
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\bin\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.pdb
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.dll
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.pdb
+C:\Users\guilh\source\repos\Exerc.TrilhaEspecialista.COO\Exerc.TrilhaEspecialista.COO\obj\Debug\netcoreapp3.1\Exerc.TrilhaEspecialista.COO.genruntimeconfig.cache
